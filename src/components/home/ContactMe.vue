@@ -14,7 +14,7 @@
           >
             <span>let's </span>
             <div class="line-around">
-              <img src="@/assets/images/Vector-6-1.png" alt=" " />
+              <img src="@/assets/images/Vector-6-1.png" alt="" />
               <span>connect</span>
             </div>
             <span> and collaborate</span>
